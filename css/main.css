@@ -45,7 +45,7 @@ h1 {
       }
 
 .wrapper2 {
-	width: 280px;
+	width: 285px;
 	height: 80px;
   margin: auto;
   padding:0;
@@ -56,7 +56,7 @@ h1 {
 }
 
 .wrapper2right {
-	width: 240px;
+	width: 235px;
 	height: 80px;
   margin: auto;
   padding:0;
@@ -80,13 +80,11 @@ h1 {
 	clear: both;
 }
 p.p1 {
-	font-size: 36px;
   font-weight: 400;
 	width: 70%;
-  letter-spacing: -2px;
-  line-height: 1;
-  word-spacing: 2px;
-  margin-bottom: -10px;
+  line-height: 30px;
+  word-spacing: 10px;
+  margin-bottom: -5px;
   clear: both;
 }
 
@@ -119,8 +117,12 @@ span {
 	font-size: 28px;
 	text-align: left;
 }
+.s10 {
+	font-size: 29px;
+	word-spacing: -4px;
+}
 .s6 {
-	font-size:36px;
+	font-size:38px;
 }
 .s7 {
 	font-size:30px;
@@ -136,26 +138,28 @@ span {
 .LIFE {
 	color: #2f1168;
 	text-transform: capitalize;
-	font-size: 100px;
+	font-size: 110px;
 	font-family:'Great Vibes', cursive;
   font-weight: 400;
   float: right;
-	letter-spacing:2px;
-	line-height:70px;
+	line-height: 100px;
 	margin-left: -50px;
-	width:47%;
+	width:55%;
 
 }
 .short
 {
-	margin: 15px 0px 15px 40px;
-	font-size: 68px;
+	margin: 18px;
+	font-size: 72px;
 	color: #2f1168;
 	font-family:'Great Vibes', cursive;
 	text-transform: none;
+	text-align: center;
   font-weight: 400;
-	line-height: 60px;
+	line-height: 58px;
+	letter-spacing: 1px;
+	word-spacing: 3px;
 	width:38%;
-	height: 100px;
+	height: 72px;
 	float: left;
 }
