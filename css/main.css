@@ -4,9 +4,10 @@ body {
 	background-color: #cab2bf;
   font-family: 'Lora', serif;
   text-transform: uppercase;
-	padding: 20px 150px 10px 150px;
-	margin: 0px 150px 10px 150px;
+	padding: 50px 0px;
+	margin: auto;
 	color: #40323a;
+	width: max-content;
       }
 
 h1 {
